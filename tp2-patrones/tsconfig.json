@@ -8,6 +8,5 @@
     "erasableSyntaxOnly": true,
     "allowImportingTsExtensions": true,
     "skipLibCheck": true
-  },
-  "include": ["*.ts"]
+  }
 }

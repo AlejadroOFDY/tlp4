@@ -1,0 +1,17 @@
+{
+  "name": "tp3-solid",
+  "version": "1.0.0",
+  "description": "Al terminar estos ejercicios deberias poder:",
+  "main": "index.js",
+  "scripts": {
+    "01-srp": "node ejercicios/01-srp.ts",
+    "02-ocp": "node ejercicios/02-ocp.ts",
+    "03-lsp": "node ejercicios/03-lsp.ts",
+    "04-isp": "node ejercicios/04-isp.ts",
+    "05-dip": "node ejercicios/05-dip.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
